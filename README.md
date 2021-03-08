@@ -1,1 +1,1 @@
-# Git-inicial
+Descripción del proyecto
